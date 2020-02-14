@@ -3,3 +3,5 @@ Hola Leo
 Como estas? , me alegra que lo estés
 
 Mañana nos enfocaremos en su vida laboral
+
+cambios para probar git reset HEAD
